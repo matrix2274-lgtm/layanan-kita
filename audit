@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Audit Proses Bisnis - Solusi Holistic</title>
+  <meta name="description" content="Audit proses bisnis untuk identifikasi bottleneck, optimasi SOP, dan peningkatan efisiensi. Solusi Holistic bantu operasional lebih ramping.">
+  <meta name="keywords" content="audit proses,audit bisnis,SOP,optimasi proses,efisiensi operasional">
+
+  <link rel="canonical" href="https://solusiholistic.biz.id/layanan/audit-proses">
+
+  <meta property="og:title" content="Audit Proses Bisnis - Solusi Holistic">
+  <meta property="og:description" content="Audit proses bisnis: temukan kebocoran, standar SOP, dan rekomendasi implementasi untuk efisiensi nyata.">
+  <meta property="og:image" content="https://tokomu.biz.id/gambarbebas/20240722-024125_lgsh.png">
+
+  <meta name="twitter:card" content="summary_large_image">
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" rel="stylesheet">
+
+  <style>
+    :root{--primary:#0d6efd}
+    body{font-family:system-ui,Arial,sans-serif;color:#24303a;margin:0}
+    .hero{position:relative;min-height:60vh;display:flex;align-items:center;color:#fff}
+    .hero-bg{position:absolute;inset:0;background-size:cover;background-position:center;filter:brightness(.45);opacity:0;transition:opacity .5s}
+    .hero.loaded .hero-bg{opacity:1}
+    .hero .container{position:relative;z-index:2;padding:36px}
+    .card{border-radius:12px}
+    .fab-wa{position:fixed;right:18px;bottom:18px;width:56px;height:56px;border-radius:50%;background:#25D366;color:#fff;display:flex;align-items:center;justify-content:center;z-index:9999}
+    footer{background:#0b2239;color:#dbe9fb;padding:28px 0}
+  </style>
+
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"Service",
+    "serviceType":"Audit Proses Bisnis",
+    "provider":{"@type":"Organization","name":"Solusi Holistic","url":"https://solusiholistic.biz.id"},
+    "description":"Audit proses untuk identifikasi inefisiensi, pembuatan SOP praktis, dan rekomendasi automasi/penyederhanaan workflow."
+  }
+  </script>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm">
+  <div class="container">
+    <a class="navbar-brand d-flex align-items-center" href="/"><img src="https://tokomu.biz.id/gambarbebas/20240722-024125_lgsh.png" alt="Solusi Holistic" width="44" loading="lazy"><span class="ms-2 fw-bold">Solusi Holistic</span></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMain"><span class="navbar-toggler-icon"></span></button>
+    <div class="collapse navbar-collapse" id="navMain"><ul class="navbar-nav ms-auto"><li class="nav-item"><a class="nav-link" href="/#layanan">Layanan</a></li><li class="nav-item"><a class="nav-link" href="/#kontak">Kontak</a></li></ul></div>
+  </div>
+</nav>
+
+<header class="hero" id="hero">
+  <div id="heroBg" class="hero-bg" data-bg="https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=1920&auto=format&fit=crop"></div>
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-7">
+        <small class="badge bg-light text-dark mb-2">Layanan Spesialis</small>
+        <h1 class="display-5 fw-bold">Audit Proses Bisnis</h1>
+        <p class="lead">Identifikasi bottleneck, perbaiki SOP, dan sederhanakan workflow untuk hasil operasional yang konsisten dan hemat biaya.</p>
+        <div class="d-flex gap-2">
+          <a href="https://wa.me/6285733167474" class="btn btn-warning btn-lg text-dark"><i class="fab fa-whatsapp me-2"></i>Hubungi via WA</a>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSfzBc04ORIvNtqrcjlArH4bqCltK5rAMfYfl9cw54Nchrj6vg/viewform" target="_blank" class="btn btn-outline-light btn-lg"><i class="fa fa-clipboard-list me-2"></i>Ajukan Audit</a>
+        </div>
+      </div>
+      <div class="col-lg-5 mt-4 mt-lg-0">
+        <div class="card p-3 shadow-sm">
+          <h5 class="fw-bold mb-2">Permintaan Audit Singkat</h5>
+          <form id="miniFormAudit" class="row g-2">
+            <div class="col-12"><input class="form-control" id="aName" placeholder="Nama PIC" required></div>
+            <div class="col-12"><input class="form-control" id="aPhone" placeholder="Nomor WA"></div>
+            <div class="col-12"><input class="form-control" id="aUnit" placeholder="Unit / departemen yang diaudit"></div>
+            <div class="col-12"><textarea id="aNote" class="form-control" rows="2" placeholder="Masalah singkat (opsional)"></textarea></div>
+            <div class="col-12"><button type="submit" class="btn btn-primary w-100"><i class="fab fa-whatsapp me-2"></i>Kirim & Konsultasi</button></div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main>
+  <section class="py-5">
+    <div class="container">
+      <h2 class="fw-bold">Apa yang Termasuk dalam Audit Proses?</h2>
+      <p class="text-muted">Kami memeriksa end-to-end workflow, waktu siklus, titik yang rawan kesalahan, serta potensi automasi untuk menghemat biaya dan meningkatkan kualitas.</p>
+
+      <div class="row g-4 mt-3">
+        <div class="col-md-6 col-lg-4">
+          <div class="card p-3 h-100">
+            <h5 class="fw-bold">Ruang Lingkup Audit</h5>
+            <ul>
+              <li>Pemetaan proses & flowchart</li>
+              <li>Waktu siklus & identifikasi bottleneck</li>
+              <li>SOP & kontrol kualitas</li>
+              <li>Rekomendasi automasi / digitalisasi</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="col-md-6 col-lg-8">
+          <div class="card p-3 h-100">
+            <h5 class="fw-bold">Manfaat</h5>
+            <ul>
+              <li>Proses yang lebih cepat dan konsisten</li>
+              <li>Pengurangan kesalahan & rework</li>
+              <li>Penghematan biaya operasional</li>
+              <li>Dokumentasi SOP yang mudah dijalankan</li>
+            </ul>
+            <p class="mt-3">Audit cocok untuk manufaktur kecil, layanan, restoran, toko ritel, dan unit operasional lain yang ingin meningkatkan efisiensi tanpa menambah overhead besar.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="mt-4">
+        <h3 class="fw-semibold">Langkah Kerja</h3>
+        <ol>
+          <li>Pemetaan proses & interview tim</li>
+          <li>Pengukuran waktu & pengumpulan data</li>
+          <li>Identifikasi inefisiensi & rekomendasi perbaikan</li>
+          <li>Penyusunan SOP & pilot implementasi</li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-5 bg-light">
+    <div class="container">
+      <h3 class="fw-bold">Hasil & Output</h3>
+      <p class="text-muted">Laporan audit berisi temuan prioritaskan, quick wins, roadmap perbaikan, serta template SOP siap pakai.</p>
+      <div class="ratio ratio-16x9 shadow-sm">
+        <iframe loading="lazy" src="https://www.youtube.com/embed/dRZQEFH-HRA?si=snt9R5nWpGkrXA9M" title="Audit Proses" allowfullscreen></iframe>
+      </div>
+    </div>
+  </section>
+
+  <section id="faq" class="py-5">
+    <div class="container">
+      <h3 class="fw-bold">FAQ</h3>
+      <div class="accordion" id="faqAudit">
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="faqAudit1">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseAudit1">Apakah audit mengganggu operasi?</button>
+          </h2>
+          <div id="collapseAudit1" class="accordion-collapse collapse show" data-bs-parent="#faqAudit">
+            <div class="accordion-body">Tim kami melakukan audit dengan pendekatan non-disruptive; interview & pengukuran kami susun agar tidak mengganggu layanan harian.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="mt-4">
+        <h5>20 Tagar Pendukung</h5>
+        <p class="small text-muted">#SolusiHolistic #AuditProses #SOP #OperationalAudit #ProcessImprovement #Lean #Workflow #Efficiency #OperationalExcellence #ProcessMapping #SOPDevelopment #Automation #Kaizen #BottleneckAnalysis #TimeStudy #CostSaving #QualityControl #ContinuousImprovement #SMEOperations #BusinessOptimization</p>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="container">
+    <div class="row gy-3">
+      <div class="col-md-6">
+        <h5 class="text-white">Solusi Holistic</h5>
+        <p class="small text-white-50">Konsultan bisnis end-to-end: strategi, operasional, keuangan, SDM, pemasaran, transformasi organisasi.</p>
+      </div>
+      <div class="col-md-3">
+        <h6 class="text-white">Kontak</h6>
+        <p class="small text-white-50">solusiholistic@gmail.com<br>+62 857-3316-7474</p>
+      </div>
+      <div class="col-md-3">
+        <h6 class="text-white">Sosial</h6>
+        <div class="d-flex gap-2">
+          <a class="btn btn-outline-light btn-sm" href="https://www.facebook.com/profile.php?id=100070549626024"><i class="fab fa-facebook-f"></i></a>
+          <a class="btn btn-outline-light btn-sm" href="https://www.instagram.com/solusi2274"><i class="fab fa-instagram"></i></a>
+          <a class="btn btn-outline-light btn-sm" href="https://www.tiktok.com/@solusiholistic.ar"><i class="fab fa-tiktok"></i></a>
+        </div>
+      </div>
+    </div>
+    <hr class="my-3">
+    <div class="text-center small text-white-50">© 2025 Solusi Holistic. All rights reserved.</div>
+  </div>
+</footer>
+
+<a class="fab-wa" href="https://wa.me/6285733167474" target="_blank" aria-label="Chat WhatsApp"><i class="fab fa-whatsapp"></i></a>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+  (function(){
+    const hero=document.getElementById('hero'), bg=document.getElementById('heroBg'), url=bg?.getAttribute('data-bg');
+    if(url){ bg.style.backgroundImage='url('+url+')'; hero.classList.add('loaded'); }
+  })();
+
+  document.getElementById('miniFormAudit').addEventListener('submit', function(e){
+    e.preventDefault();
+    const n=encodeURIComponent(document.getElementById('aName').value||'-');
+    const p=encodeURIComponent(document.getElementById('aPhone').value||'-');
+    const unit=encodeURIComponent(document.getElementById('aUnit').value||'-');
+    const note=encodeURIComponent(document.getElementById('aNote').value||'-');
+    const msg=`Halo Solusi Holistic,%0A%0ASaya ${n}.%0AUnit: ${unit}%0AWA: ${p}%0AInfo: ${note}`;
+    window.open('https://wa.me/6285733167474?text='+msg,'_blank');
+    this.reset();
+  });
+</script>
+</body>
+</html>
